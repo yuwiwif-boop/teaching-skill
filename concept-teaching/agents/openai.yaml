@@ -1,0 +1,7 @@
+interface:
+  display_name: "认知节点教学"
+  short_description: "沿认知图谱教授、验证并记录一个可迁移的生成性认识节点"
+  default_prompt: "使用 $concept-teaching 继续我的下一次单节点学习。"
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+interface:
+  display_name: "学习总框架"
+  short_description: "为长期个人学习建立并维护使命、教材与认知图谱结构体系"
+  default_prompt: "使用 $learning-framework 为这个长期学习主题建立或维护认知图谱。"
+
+policy:
+  allow_implicit_invocation: true
