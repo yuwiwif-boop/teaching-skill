@@ -1,0 +1,1 @@
+这是一套用于ai教学的skill，先使用learning-framework skill创建学习路径，再使用concept-teaching skill逐个节点教学，调用concept-teaching skill时可以在新对话里直接展开
